@@ -134,7 +134,7 @@ class Board {
 }
 
 
-public class Main {
+public class Life {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
