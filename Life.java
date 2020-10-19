@@ -31,7 +31,7 @@ class Game {
 
     void makeGenerations() {
         for (int i = 1; i < generations; i++) {
-            System.out.println("generation น " + i);
+            System.out.println("generation ยน " + i);
             board.showMapWithNeighbors();
             board.showMap();
             board = makeStep();
